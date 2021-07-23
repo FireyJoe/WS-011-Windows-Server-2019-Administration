@@ -36,7 +36,7 @@ lab:
 
     ```powershell
     cd c:\\labfiles\\Mod08
-    DG_Readiness_Tool.ps1 -Enable -AutoReboot
+    .\DG_Readiness_Tool.ps1 -Enable -AutoReboot
     
     ```
 
